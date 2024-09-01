@@ -1,5 +1,6 @@
 # Movie-Recommendation-System
 ## App Link: https://movie-freak-12ab26bf4864.herokuapp.com/
+## Database Used: https://www.themoviedb.org/
 ## Task
 ## Synopsis
 ### Objective: Strategize the recommendation process for movies on any entertainment platform by acquiring movie name
