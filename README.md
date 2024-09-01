@@ -10,7 +10,7 @@ Design and deploy a movie recommender app fetching movie data (title and associa
 * Revamped model workflow utilising Ast library for dealing with strings and creating lambda & apply functions
 * Tailored PKL file for similarity values via Tokenization, Feature Extraction and Cosine Similarity
 * Performed API testing using the Postman application on TMDB API for end-to-end deployment
-### Result: Deployed model on Heroku platform successfully utilizing Streamlit backend
+### Result: Successfully deployed model on Heroku platform utilizing Streamlit backend
 ## Tools
 * Python
 * PyCharm
