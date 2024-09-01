@@ -28,7 +28,7 @@ enableCORS = false\n\
 " > ~/.streamlit/config.toml
 ```
 5.4 requirements.txt that will contain all the Python dependencies and their versions -> run pip freeze > requirements.txt
-5.5 Procfile for deployment -> web: sh setup.sh && streamlit run app.py (Make sure to access app and server instances in app.py)
+5.5 Procfile for deployment -> web: sh setup.sh && streamlit run app.py
 
 6. Install Heroku Client and then check installation using heroku --version via cmd as administrator.
 7. Deploy on Heroku using git: Create web app movie-freak on Heroku and then do as follows in terminal:
