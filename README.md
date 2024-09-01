@@ -2,7 +2,7 @@
 ## App Link: https://movie-freak-12ab26bf4864.herokuapp.com/
 ## Database Link: https://www.themoviedb.org/
 ## Task
-Design a movie recommender app fetching movie data (title and associated images) through API requests from the famous TMDB (The Movie Database)
+Design and deploy a movie recommender app fetching movie data (title and associated images) through API requests from the famous TMDB (The Movie Database)
 ## Synopsis
 ### Objective: Strategize the recommendation process for movies on any entertainment platform by acquiring similar movies
 ### Approach:
