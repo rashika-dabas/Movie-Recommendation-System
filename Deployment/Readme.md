@@ -1,6 +1,5 @@
 # Deployment
 ## IDE: PyCharm
-## Dataset: https://www.themoviedb.org/
 ## Steps:
 * Create a new project in PyCharm with python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
 * Install just once in terminal having (venv):
