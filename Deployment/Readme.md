@@ -1,16 +1,11 @@
 # Deployment
 ## IDE: PyCharm
 ## Steps:
-* Create a new project in PyCharm with python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
+* Create a new project in PyCharm with Python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
 * Install just once in terminal having (venv):
-1. pip install streamlit
-2. pip install dash (main)
-3. pip install dash-auth (optional)
-4. pip install dash-renderer (optional)
-5. pip install dash-core-components (optional)
-6. pip install dash-html-components (optional)
-7. pip install plotly
-* Add debug=True in () of app.run_server() in the last line of app.py.
+1. pip install requests
+2. pip install pandas
+3. pip install streamlit
 * To run the app, use play button for app.py or in terminal write streamlit run app.py.
 * To stop the app, use stop button for app.py or in terminal, click on cross at top and then Terminate.
 * Deploying Dashboard (App) on Heroku:
