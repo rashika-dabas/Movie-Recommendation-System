@@ -1,5 +1,6 @@
 # Deployment
 ## IDE: PyCharm
+## Download similarity.pkl file: https://drive.google.com/file/d/1ceY8ePl20fBFV5-cqq0P9x-3Lqr8KX47/view?usp=sharing (Recommended way to store large pkl files - compress-pickle module)
 ## Steps:
 * Create a new project in PyCharm with Python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
 * Install just once in terminal having (venv):
