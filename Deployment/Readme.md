@@ -3,6 +3,7 @@
 ## Download similarity.pkl file: https://drive.google.com/file/d/1ceY8ePl20fBFV5-cqq0P9x-3Lqr8KX47/view?usp=sharing (Recommended way to store large pkl files - Use compress-pickle package)
 ## Steps:
 * Create a new project in PyCharm with Python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
+* Download similarity.pkl file using above link. (Could not upload because of size issues)
 * Install just once in terminal having (venv):
 1. pip install requests
 2. pip install pandas
