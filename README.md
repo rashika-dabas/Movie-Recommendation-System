@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-## App Link: https://web-authenticator-01b0f465d794.herokuapp.com/
+## App Link: https://movie-freak-12ab26bf4864.herokuapp.com/
 ## IDE: PyCharm
 ## Steps:
 * Create a new project in PyCharm with python 3.10 and a new virtual environment. (.idea and venv folder will be automatically created)
