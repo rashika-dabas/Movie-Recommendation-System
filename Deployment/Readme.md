@@ -17,7 +17,7 @@
 5.1 app.py where we will code our streamlit application
 5.2 .gitignore to make sure that unnecessary files are not pushed to production -> venv
 5.3. setup.sh with below code
-'''
+`
 mkdir -p ~/.streamlit/
 echo "\
 [server]\n\
@@ -26,7 +26,7 @@ port = $PORT\n\
 enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
-'''
+`
 5.3 requirements.txt that will contain all the Python dependencies and their versions -> run pip freeze > requirements.txt
 5.4 Procfile for deployment -> web: sh setup.sh && streamlit run app.py (Make sure to access app and server instances in app.py)
 7. Install Heroku Client and then check installation using heroku --version via cmd as administrator.
