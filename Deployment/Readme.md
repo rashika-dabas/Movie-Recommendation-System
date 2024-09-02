@@ -13,7 +13,7 @@
 * Deploying Dashboard (App) on Heroku:
 1. Open PyCharm and create a project with venv (Python 3.10)
 2. Install all the above packages in terminal (Check in app.py for errors to make sure all done)
-3. Run and stop app locally to check that app is working (Add debug=True also before running)
+3. Run and stop app locally to check that app is working
 4. Create a few files in folder:
 4.1 app.py where we will code our streamlit application
 4.2 .gitignore to make sure that unnecessary files are not pushed to production -> venv
